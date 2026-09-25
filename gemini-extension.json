@@ -1,0 +1,14 @@
+{
+  "name": "pulse-data-rooms",
+  "version": "1.0.0",
+  "description": "Pulse Data Rooms for Gemini CLI: search the documents in your Pulse data room, see who opened what you shared, and create share links.",
+  "mcpServers": {
+    "pulse": {
+      "httpUrl": "https://api.usepulse.co/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
